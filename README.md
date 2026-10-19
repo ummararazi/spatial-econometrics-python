@@ -28,7 +28,7 @@ Start with the **[Beginner's Guide](Beginners_Guide_Spatial_Econometrics.md)**. 
 
 Practice model: county median home value explained by income, population density and the share of homes heated by electricity.
 
-## Data (free, no API key)
+## Data (free; requires a free Census API key)
 
 - County boundaries: US Census Bureau, Cartographic Boundary Files 2020 (1:20m)
 - County attributes: American Community Survey 5-year estimates, 2018–2022 (Census API)
