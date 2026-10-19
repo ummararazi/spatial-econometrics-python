@@ -1,4 +1,4 @@
-![LISA map](Week1_outputs/fig_lisa_map.png)
+![LISA map](outputs/fig_lisa_map.png)
 
 # Spatial Econometrics in Python: US Counties
 
