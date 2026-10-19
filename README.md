@@ -1,3 +1,5 @@
+![LISA map](Week1_outputs/fig_lisa_map.png)
+
 # Spatial Econometrics in Python: US Counties
 
 A hands-on learning series in spatial econometrics, built on about 3,100 US counties and free public data.
