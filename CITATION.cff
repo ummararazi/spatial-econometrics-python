@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Spatial Econometrics in Python: US Counties"
+type: software
+authors:
+  - family-names: Razi
+    given-names: Ummara
+    orcid: "https://orcid.org/0000-0002-5981-5736"
+    affiliation: "Center for Sustainable Development and Green Innovation Research, Bahçeşehir Cyprus University"
+date-released: 2026-10-19
+license: MIT
+keywords:
+  - spatial econometrics
+  - spatial Durbin model
+  - Moran's I
+  - LISA
+  - Python
+  - PySAL

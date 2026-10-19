@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+outputs/*.gpkg
+outputs/acs2022_county_raw.csv
