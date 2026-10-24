@@ -61,9 +61,20 @@ jupyter notebook Week1_Spatial_Econometrics_US_Counties.ipynb
 
 Outputs (tables as CSV, maps as PNG, the cleaned sample as GeoPackage) are saved to `outputs/`.
 
+## Week 2: Choosing the model and choosing W
+
+`Week2_Model_Choice_and_W.ipynb` (companion notes: [Week 2 Guide](Week2_Guide_Model_Choice_and_W.md)) covers:
+
+1. The full family of spatial models, including SDEM and SAC
+2. Likelihood-ratio tests and the SDM versus SDEM (global versus local spillover) choice
+3. Choosing W on economic grounds: 15 weights matrices compared on fit and on spillover estimates
+4. State fixed effects and what W is really capturing
+5. Heteroskedasticity-robust GMM and spatial HAC standard errors
+
+It uses the sample saved by Week 1 (`outputs/county_sample_week1.gpkg`); no API key is needed.
+
 ## Coming next
 
-- Week 2: Model choice, SDEM and choosing W on economic grounds
 - Week 3–4: Spatial panel models with fixed effects
 - Week 5–6: Difference-in-differences with spatial spillovers and Conley standard errors
 
