@@ -1,0 +1,7 @@
+Test,General,Restricted,LR,df,p-value
+theta = 0 (no WX),SDM,SAR,649.8599801542769,3,0.0
+rho = 0 (no Wy),SDM,SLX,2625.8788601601,1,0.0
+theta = -rho*beta (common factor),SDM,SEM,60.3266374761497,3,5.005995618034831e-13
+theta = 0 (no WX),SDEM,SEM,47.90885294497821,3,2.226739903576913e-10
+lambda = 0 (no spatial error),SDEM,SLX,2613.4610756289285,1,0.0
+theta = 0 (no WX),SLX,OLS,184.84867788772772,3,0.0

@@ -1,0 +1,10 @@
+Question,Answer
+Neighbours' X matters (LR: SLX vs OLS),p = 0
+Neighbours' y matters given WX (LR: SDM vs SLX),p = 0
+SDM reduces to SEM? (common-factor LR test),p = 5.01e-13
+SDM vs SDEM under Queen (higher logL wins),SDM
+Best-fitting W for SDM,InvDist150km_a2
+Best-fitting W for SDEM,InvDist150km_a2
+"Best SLX distance decay alpha (inverse distance, 300 km)",1.0
+rho (SDM): without -> with state FE,0.814 -> 0.559
+lambda (SDEM): without -> with state FE,0.820 -> 0.582
